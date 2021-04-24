@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-1.make sure you have installed npm and vue cli (npm install -g @vue/cli) first (mine is up to date for both).
+1.Make sure you have installed npm and vue cli (npm install -g @vue/cli) first (mine is up to date for both).
 2.npm install
 3.npm run serve
 4.if npm install fail, please removed the node_modules folder and run npm intsall again
